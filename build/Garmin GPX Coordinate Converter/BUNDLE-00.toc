@@ -1,0 +1,3 @@
+([('Garmin GPX Coordinate Converter',
+   '/Users/zhangzeyu07/gpx/garmin-gpx-g2w/dist/Garmin GPX Coordinate Converter',
+   'EXECUTABLE')],)
